@@ -1,0 +1,7 @@
+Version 1.2 (05/05/2013)
+[+] Chargement du javascript en fin de la partie <head> plutôt qu'en fin de page, pour pouvoir utiliser Google Webmaster Tools
+
+Version 1.1 (28/06/2012)
+[+] Chargement du javascript en fin de page plutôt que dans la partie <head>
+
+Version 1.0 (07/01/2011)
