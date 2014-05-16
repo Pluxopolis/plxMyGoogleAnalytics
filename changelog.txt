@@ -1,3 +1,7 @@
+Version 1.2.1 (16/05/2014)
+[+] Nouveau code Google analytics (contribution Francis D.)
+[+] Limite de temps pour ne pas prendre en compte la visite d'une page dans le taux de rebond.
+
 Version 1.2 (05/05/2013)
 [+] Chargement du javascript en fin de la partie <head> plutôt qu'en fin de page, pour pouvoir utiliser Google Webmaster Tools
 
